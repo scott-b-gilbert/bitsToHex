@@ -1,4 +1,4 @@
-#bitsToHex
+# bitsToHex
 This app will take the given bit positions and output the hexadecimal value.  e.g.:
 ```
 $ bitsToHex 0 63 18 22 55 20 7
